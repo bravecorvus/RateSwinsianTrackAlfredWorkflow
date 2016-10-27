@@ -9,7 +9,7 @@ They are just for people who are security counscious and need to understand the 
 
 ## What does this do
 Heres the Demo
-![Demo](assets/Demo.mov)
+[![Demo](assets/screenshot.png)](https://youtu.be/AovfUhRwFKc)
 
 Basically, it uses the natively provided Swinsian Apple Scripts to set the rating based on the number you provide after the keyword "rate", then extact the track name, artist, and album information to activate in iTunes.
 
